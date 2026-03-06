@@ -11,12 +11,6 @@ Aplicación web para gestionar usuarios. Permite crear, editar, listar y elimina
 - Spring Data JPA
 - MySQL
 
-## Requisitos
-
-- Java 21
-- Maven
-- MySQL
-
 
 ## Ejecución
 ```bash
